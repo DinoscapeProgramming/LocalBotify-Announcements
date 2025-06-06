@@ -1,6 +1,6 @@
 # Update - v1.3.1
 
-Say hello to the brand new dialog system for your bot to communicate with the app.
+Say hello to the brand new dialog system for your bot to communicate with the app!
 
 ## Why?
 
