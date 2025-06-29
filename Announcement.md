@@ -1,25 +1,25 @@
-# Update - v1.3.1
+# 👋 Welcome to LocalBotify!
 
-Say hello to the brand new dialog system for your bot to communicate with the app!
-
-## Why?
-
-- Show errors in a user friendly way
-- Ask the user for API credentials
-- _et cetera_
-
-## How?
-
-Use our [npm package](https://www.npmjs.com/package/localbotify)'s `alert()`, `confirm()`, `prompt()` methods to push notifications to the client through our new channel `channels/dialog.txt`.
-
-As an example, this is how to use `alert()`:
-
-```js
-const { alert } = requireCore("localbotify");
-
-alert("Title", "Body / Description");
-```
+Build powerful **Discord bots** — **without writing a single line of code**.  
+We’re excited to help you get started!
 
 ---
 
-_Made with ❤️ by [Dinoscape](https://github.com/DinoscapeProgramming)_
+## 🚀 Why you’ll love LocalBotify
+
+- ✅ **No coding required** – Just drag, drop, and deploy.
+- 🧠 **AI Assistant** – Create commands with plain English.
+- 🌐 **Cloud or local hosting** – Your choice, your control.
+- 📊 **Advanced analytics** – See how your bot is performing.
+- 🛠️ **Fully customizable** – Tailor everything to your needs.
+
+---
+
+## 🙋 Need help?
+
+- 🤝 [Join our Discord](#) to ask questions and chat with the community.
+- 🛟 [Contact Support](#) if you’re stuck or need guidance.
+
+---
+
+Thanks for choosing **LocalBotify** – let’s build something awesome together! 🤖✨
